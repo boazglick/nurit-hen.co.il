@@ -49,6 +49,13 @@ module.exports = {
         label: "יצירת קשר",
         url: "https://nurit-hen.co.il/contact",
       },
+                  
+       {
+        label: "מאיה קרסו",
+        url: "https://maya.tase.co.il/company/2384",
+      },
+      
+      
      
     ],
   },
